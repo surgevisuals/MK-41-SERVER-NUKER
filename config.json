@@ -1,0 +1,13 @@
+{
+  "Token": "YourUserTokenHere",
+  "ServerID": "SERVERIDHERE",
+  "BanAll?": "No",
+  "DeleteAllChannels?": "Yes",
+  "DeleteAllRoles?": "No",
+  "SpamChannels?": "Yes",
+  "SpamRoles?": "Yes",
+  "SpammedChannelAmount": 50,
+  "SpammedChannelName": "hi",
+  "SpammedRoleAmount": 20,
+  "SpammedRoleName": "your mom"
+}
