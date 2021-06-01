@@ -22,4 +22,4 @@ https://media.discordapp.net/attachments/770264707981508619/847714814099718164/6
 2. Paste Server ID In "ServerID"
 3. Rest Is Simple.
 
-**DM ME FOR HELP ON DISCORD | メCented`#9083**
+**DM ME FOR HELP ON DISCORD | メCented#9083**
